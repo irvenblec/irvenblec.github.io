@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://irvenblec.github.io/irvenblec.irvenblec
+Sitemap: https://irvenblec.github.io/app/irvenblec.irvenblec
+Sitemap: https://irvenblec.github.io/assets/irvenblec.irvenblec
+Sitemap: https://irvenblec.github.io/css/irvenblec.irvenblec
+Sitemap: https://irvenblec.github.io/includes/irvenblec.irvenblec
+Sitemap: https://irvenblec.github.io/item/irvenblec.irvenblec
+Sitemap: https://irvenblec.github.io/src/irvenblec.irvenblec
